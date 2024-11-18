@@ -21,7 +21,7 @@ export const App = () => {
   {
     title: 'Procura descansar',
     description: "Descansar bé i desconectar són vitals.D'aquesta manera reduiràs l'estrès i l'a sietat. Milloraràs la teva concentració i con olidaras el teu aprenentatge",
-    bgColor: '#ffc107',
+    bgColor: '#f3b704c4',
     image: meditation,
   },
 ];
